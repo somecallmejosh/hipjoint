@@ -1,0 +1,21 @@
+{% capture location %}{{page.url | split:'/'}}{% endcapture %}
+
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+  <a class="navbar-brand" href="/">{% include logo.html %}</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <ul class="navbar-nav mr-auto">
+      <li {% if page.active %} class="nav-item active"{%else%}class="nav-item"{% endif %}> <a href="{{site.baseurl}}/" class="nav-link">Home</a></li>
+      {% for page in site.pages %}
+        {% assign current = page.title | downcase %}
+          {% if page.title %}
+            <li {% if location == current%} class="nav-item active"{%else%}class="nav-item"{% endif %}>
+              <a href="{{ page.url | prepend: site.baseurl }}" class="nav-link">{{ page.title }}</a>
+            </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
