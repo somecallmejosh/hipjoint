@@ -11,7 +11,7 @@ layout: page
       <div>{% include logo.html %}</div>
       <p class="lead">We're HipJoint, a CT based funk band.</p>
     </div>
-    <img data-src="http://res.cloudinary.com/dwjulenau/image/upload/e_gradient_fade,y_-0.5,b_black/ar_16:9,c_fill,dpr_2.0,e_grayscale,f_auto,fl_lossy.progressive,w_auto,q_auto:low/v1504121524/band-sites/eszter-biro-129457.jpg" class="cld-responsive">
+    <img data-src="http://res.cloudinary.com/dwjulenau/image/upload/e_gradient_fade,y_-0.5,b_black/ar_16:9,c_fill,dpr_2.0,e_grayscale,f_auto,fl_lossy.progressive,w_auto,q_auto:low/v1504121524/band-sites/eszter-biro-129457.jpg" class="cld-responsive" alt="Banner image">
   </div>
 </div>
 
@@ -22,17 +22,17 @@ layout: page
   <!-- Three columns of text below the carousel -->
   <div class="row">
     <div class="col-lg-4 mb-4 mb-lg-0">
-      <img class="cld-responsive mb-2"  data-src="http://res.cloudinary.com/dwjulenau/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy.progressive,q_auto:low,w_auto,ar_16:9,g_faces/e_grayscale/v1505693873/hipjoint/band-pic-2.jpg" alt="Generic placeholder image">
+      <img class="cld-responsive mb-2"  data-src="http://res.cloudinary.com/dwjulenau/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy.progressive,q_auto:low,w_auto,ar_16:9,g_faces/e_grayscale/v1505693873/hipjoint/band-pic-2.jpg" alt="Band photo">
       <h2 class="h3">Funk Soul Bros.</h2>
       <p>At our core, we are a band of funk soul brothers — funky as funk can be. If it don't make you dance, we don't play it.</p>
     </div><!-- /.col-lg-4 -->
     <div class="col-lg-4 mb-4 mb-lg-0">
-      <img class="cld-responsive mb-2"  data-src="https://res.cloudinary.com/dwjulenau/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy.progressive,q_auto:low,w_auto,ar_16:9,g_faces/v1506781968/hipjoint/one-wedding-292005.jpg" alt="Generic placeholder image">
+      <img class="cld-responsive mb-2"  data-src="https://res.cloudinary.com/dwjulenau/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy.progressive,q_auto:low,w_auto,ar_16:9,g_faces/v1506781968/hipjoint/one-wedding-292005.jpg" alt="Wedding party">
       <h2 class="h3">Bride & Groom Friendly</h2>
       <p>We can deliver an upscale, fancy pants throwdown for your wedding reception. We'll even throw in a line dance or two.</p>
     </div><!-- /.col-lg-4 -->
     <div class="col-lg-4 mb-4 mb-lg-0">
-      <img class="cld-responsive mb-2" data-src="https://res.cloudinary.com/dwjulenau/image/upload/c_fill,dpr_2.0,f_auto,e_grayscale,fl_lossy.progressive,q_auto:low,w_auto,ar_16:9,g_faces/v1506781693/hipjoint/stephen-arnold-114252.jpg">
+      <img class="cld-responsive mb-2" data-src="https://res.cloudinary.com/dwjulenau/image/upload/c_fill,dpr_2.0,f_auto,e_grayscale,fl_lossy.progressive,q_auto:low,w_auto,ar_16:9,g_faces/v1506781693/hipjoint/stephen-arnold-114252.jpg" alt="Hipster party">
       <h2 class="h3">Hipster Approved</h2>
       <p>And for you hipsters, we've got plenty of Garcia tucked away for you. We recommend removing the horn rimmed glasses first!</p>
     </div><!-- /.col-lg-4 -->
