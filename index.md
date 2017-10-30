@@ -17,7 +17,7 @@ layout: page
 
 <div class="container">
   <div class="border border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3">
-    Next Show: <span class="text-secondary">9/30/2017 @ Miller's Landing in Middletown, CT. Show starts at 8:00pm.</span>
+    Next Show: <span class="text-secondary">11/25/2017 @ The Pickle Stand in Middletown, CT. Show starts at 9:00pm.</span>
   </div>
   <!-- Three columns of text below the carousel -->
   <div class="row">
