@@ -4,20 +4,46 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-
-<div class="mb-5">
-  <div class="hero bg-light">
-    <div class="hero-text">
-      <div>{% include logo.html %}</div>
-      <p class="lead">We're HipJoint, a CT based funk, soul, and rhythm & blues band.</p>
-    </div>
-    <img data-src="https://res.cloudinary.com/dwjulenau/image/upload/e_gradient_fade,y_-0.5,b_black/ar_16:9,c_fill,dpr_2.0,e_grayscale,f_auto,fl_lossy.progressive,w_auto,q_auto:low/v1504121524/band-sites/eszter-biro-129457.jpg" class="cld-responsive" alt="Banner image">
-  </div>
-</div>
-
 <div class="container">
+  
+  <div class="mb-3 mt-3">
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100 cld-responsive" data-src="http://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1511748045/hipjoint/pickle-stand-11-25/38605265936_6cb65d58b1_o.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100 cld-responsive" data-src="http://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1511748045/hipjoint/pickle-stand-11-25/38605269256_ae9c016636_o.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100 cld-responsive" data-src="http://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1511748045/hipjoint/pickle-stand-11-25/24788952598_f3d0988cbd_o.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100 cld-responsive" data-src="http://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1511748045/hipjoint/pickle-stand-11-25/26885210939_815ee08b37_o.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100 cld-responsive" data-src="http://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1511748045/hipjoint/pickle-stand-11-25/26885210539_b6a413ea6e_o.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100 cld-responsive" data-src="http://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1511748045/hipjoint/pickle-stand-11-25/38605269406_6ec083f183_o.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100 cld-responsive" data-src="http://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1511748045/hipjoint/pickle-stand-11-25/24788952828_c696cc99da_o.jpg" alt="First slide">
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+
   <div class="border border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-    Next Show: <span class="text-secondary"><a href="https://www.facebook.com/events/870836823083836/">11/25/2017 @ The Pickle Stand</a> in Middletown, CT. Show starts at 9:00pm.</span>
+    New shows <span class="text-secondary">will be announced soon!</span>
   </div>
   <!-- Three columns of text below the carousel -->
   <div class="row">
