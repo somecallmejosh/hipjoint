@@ -41,6 +41,7 @@ layout: page
       </a>
     </div>
   </div>
+  <h1 class="text-center">Hipjoint Gig Schedule</h1>
 
   <div class="border border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
     The Pickle Stand <span class="text-secondary">Jan 13, 2018, Middletown, CT</span>
