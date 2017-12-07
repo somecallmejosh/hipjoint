@@ -45,10 +45,10 @@ layout: page
   <div class="border border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
     The Pickle Stand <span class="text-secondary">Jan 13, 2018, Middletown, CT</span>
   </div>
-  <div class="border border-top-0 border-color-secondary text-center p-3 mb-3 h4">
+  <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
     Daddy Jacks <span class="text-secondary">Jan 20, 2018, New London, CT</span>
   </div>
-  <div class="border border-top-0 border-color-secondary text-center p-3 mb-3 h4">
+  <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
     The Pickle Stand <span class="text-secondary">Feb 23, 2018, Middletown, CT</span>
   </div>
   <!-- Three columns of text below the carousel -->
