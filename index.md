@@ -21,7 +21,13 @@ layout: page
   </div>
   <!-- Three columns of text below the carousel -->
   <div class="row">
-    <div class="col-lg-8 mb-4 mb-lg-4">
+    <div class="col-lg-4 mb-4 mb-lg-4">
+      <img class="cld-responsive mb-2 lazyload"  data-src="https://res.cloudinary.com/dwjulenau/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy.progressive,q_auto:low,w_auto,ar_16:9,g_faces/e_grayscale/v1505693873/hipjoint/band-pic-2.jpg" alt="Band photo">
+      <h2 class="h3">Funk Soul Bros.</h2>
+      <p>At our core, we are a band of bluesy funk-soul-brothers. If it don't feel good, we don't play it. Come out and enjoy an evening of feel good music!</p>
+      <p>Follow us on <a href="https://www.facebook.com/hipjointband/">Facebook</a> for up to date events and for booking requests.</p>
+    </div>
+    <div class="col-lg-8 mb-4 mb-lg-0">
       <!-- Carousel Goes Here -->
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
@@ -56,12 +62,6 @@ layout: page
         <span class="sr-only">Next</span>
       </a>
     </div>
-    </div>
-    <div class="col-lg-4 mb-4 mb-lg-0">
-      <img class="cld-responsive mb-2 lazyload"  data-src="https://res.cloudinary.com/dwjulenau/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy.progressive,q_auto:low,w_auto,ar_16:9,g_faces/e_grayscale/v1505693873/hipjoint/band-pic-2.jpg" alt="Band photo">
-      <h2 class="h3">Funk Soul Bros.</h2>
-      <p>At our core, we are a band of bluesy funk-soul-brothers. If it don't feel good, we don't play it. Come out and enjoy an evening of feel good music!</p>
-      <p>Follow us on <a href="https://www.facebook.com/hipjointband/">Facebook</a> for up to date events and for booking requests.</p>
     </div>
   </div>
 </div>
