@@ -7,7 +7,24 @@ layout: page
 <div class="container">
 
   <div class="mb-3 mt-3">
-    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/J8JHIj1e9KA" frameborder="0" allowfullscreen></iframe>
+      </div>
+    
+  </div>
+  <h1 class="text-center h5">Gig Schedule</h1>
+
+  <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
+    Daddy Jacks <span class="text-secondary">Jan 20, 2018, New London, CT</span>
+  </div>
+  <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
+    The Pickle Stand <span class="text-secondary">Feb 23, 2018, Middletown, CT</span>
+  </div>
+  <!-- Three columns of text below the carousel -->
+  <div class="row">
+    <div class="col-lg-8 mb-4 mb-lg-4">
+      <!-- Carousel Goes Here -->
+      <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1511748045/hipjoint/pickle-stand-11-25/38605265936_6cb65d58b1_o.jpg" alt="First slide">
@@ -40,21 +57,6 @@ layout: page
         <span class="sr-only">Next</span>
       </a>
     </div>
-  </div>
-  <h1 class="text-center h5">Gig Schedule</h1>
-
-  <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-    Daddy Jacks <span class="text-secondary">Jan 20, 2018, New London, CT</span>
-  </div>
-  <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-    The Pickle Stand <span class="text-secondary">Feb 23, 2018, Middletown, CT</span>
-  </div>
-  <!-- Three columns of text below the carousel -->
-  <div class="row">
-    <div class="col-lg-8 mb-4 mb-lg-4">
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/J8JHIj1e9KA" frameborder="0" allowfullscreen></iframe>
-      </div>
     </div>
     <div class="col-lg-4 mb-4 mb-lg-0">
       <img class="cld-responsive mb-2 lazyload"  data-src="https://res.cloudinary.com/dwjulenau/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy.progressive,q_auto:low,w_auto,ar_16:9,g_faces/e_grayscale/v1505693873/hipjoint/band-pic-2.jpg" alt="Band photo">
