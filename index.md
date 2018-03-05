@@ -5,16 +5,12 @@
 layout: page
 ---
 <div class="mb-5">
-    
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/J8JHIj1e9KA" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/htmetqxpRPQ" frameborder="0" allowfullscreen></iframe>
       </div>
   </div>
 <div class="container">
   <h1 class="text-center h5">Gig Schedule</h1>
-  <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-    The Pickle Stand <span class="text-secondary">Feb 23, 2018, Middletown, CT</span>
-  </div>
   <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
     The Pickle Stand <span class="text-secondary">Mar 24, 2018, Middletown, CT</span>
   </div>
