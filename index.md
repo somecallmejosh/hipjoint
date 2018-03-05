@@ -4,12 +4,13 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-<div class="mb-5">
+
+<div class="container">
+    <div class="mb-5">
     <div class="embed-responsive embed-responsive-16by9">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/htmetqxpRPQ" frameborder="0" allowfullscreen></iframe>
       </div>
   </div>
-<div class="container">
   <h1 class="text-center h5">Gig Schedule</h1>
   <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
     The Pickle Stand <span class="text-secondary">Mar 24, 2018, Middletown, CT</span>
@@ -20,9 +21,8 @@ layout: page
   <!-- Three columns of text below the carousel -->
   <div class="row">
     <div class="col-lg-4 mb-4 mb-lg-4">
-      <img class="cld-responsive mb-2 lazyload"  data-src="https://res.cloudinary.com/dwjulenau/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy.progressive,q_auto:low,w_auto,ar_16:9,g_faces/e_grayscale/v1505693873/hipjoint/band-pic-2.jpg" alt="Band photo">
       <h2 class="h3">Funk Soul Bros.</h2>
-      <p>At our core, we are a band of bluesy funk-soul-brothers. If it don't feel good, we don't play it. Come out and enjoy an evening of feel good music!</p>
+      <p>A bass, some drums, a couple guitars, a sax, and some soul-inspired vocals. At our core, we are a band of bluesy funk-soul-brothers. We are on a mission to share our passion for music that grooves. If it don't feel good, we don't play it. Come out and enjoy our celebration and preservation of the groove!</p>
       <p>Follow us on <a href="https://www.facebook.com/hipjointband/">Facebook</a> for up to date events and for booking requests.</p>
     </div>
     <div class="col-lg-8 mb-4 mb-lg-0">
