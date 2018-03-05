@@ -30,30 +30,30 @@ layout: page
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1511748045/hipjoint/pickle-stand-11-25/38605265936_6cb65d58b1_o.jpg" alt="First slide">   
+          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fit,dpr_auto,f_auto,q_auto,w_800/v1520279255/hipjoint/hipjoint_band_final-8.jpg" alt="First slide">   
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1520279258/hipjoint/hipjoint_band_final-2.jpg" alt="First slide">
-        </div>
-        
-        <div class="carousel-item">
-          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1520279261/hipjoint/hipjoint_band_final-15.jpg" alt="First slide">
+          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fit,dpr_auto,f_auto,q_auto,w_800/v1520279258/hipjoint/hipjoint_band_final-2.jpg" alt="First slide">
         </div>
         
         <div class="carousel-item">
-          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1520279208/hipjoint/hipjoint_band_final-22.jpg" alt="First slide">
+          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fit,dpr_auto,f_auto,q_auto,w_800//v1520279261/hipjoint/hipjoint_band_final-15.jpg" alt="First slide">
         </div>
         
         <div class="carousel-item">
-          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1520279210/hipjoint/hipjoint_band_final-18.jpg" alt="First slide">
+          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fit,dpr_auto,f_auto,q_auto,w_800//v1520279208/hipjoint/hipjoint_band_final-22.jpg" alt="First slide">
         </div>
         
         <div class="carousel-item">
-          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1520279193/hipjoint/hipjoint_band_final-24.jpg" alt="First slide">
+          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fit,dpr_auto,f_auto,q_auto,w_800/v1520279210/hipjoint/hipjoint_band_final-18.jpg" alt="First slide">
         </div>
         
         <div class="carousel-item">
-          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,f_auto,fl_lossy.progressive,q_auto/v1520279260/hipjoint/hipjoint_band_final-1.jpg" alt="First slide">
+          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fit,dpr_auto,f_auto,q_auto,w_800/v1520279193/hipjoint/hipjoint_band_final-24.jpg" alt="First slide">
+        </div>
+        
+        <div class="carousel-item">
+          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fit,dpr_auto,f_auto,q_auto,w_800/v1520279260/hipjoint/hipjoint_band_final-1.jpg" alt="First slide">
         </div>
       </div>
       <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
