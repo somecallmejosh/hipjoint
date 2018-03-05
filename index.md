@@ -19,13 +19,13 @@ layout: page
     Matty's Next Door <span class="text-secondary">May 18, 2018, Middletown, CT</span>
   </div>
   <!-- Three columns of text below the carousel -->
-  <div class="row">
+  <div class="row ">
     <div class="col-lg-4 mb-4 mb-lg-4">
       <h2 class="h3">Funk Soul Bros.</h2>
       <p>A bass, some drums, a couple guitars, a sax, and some soul-inspired vocals. At our core, we are a band of bluesy funk-soul-brothers. We are on a mission to share our passion for music that grooves. If it don't feel good, we don't play it. Come out and enjoy our celebration and preservation of the groove!</p>
       <p>Follow us on <a href="https://www.facebook.com/hipjointband/">Facebook</a> for up to date events and for booking requests.</p>
     </div>
-    <div class="col-lg-8 mb-4 mb-lg-0">
+    <div class="col-lg-8 mb-4 mb-lg-4">
       <!-- Carousel Goes Here -->
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
