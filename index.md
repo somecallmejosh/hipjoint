@@ -33,7 +33,7 @@ layout: page
           <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fit,dpr_auto,f_auto,q_auto,w_800/v1520279255/hipjoint/hipjoint_band_final-8.jpg" alt="First slide">   
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fit,dpr_auto,f_auto,q_auto,w_800/v1520279258/hipjoint/hipjoint_band_final-2.jpg" alt="First slide">
+          <img class="d-block w-100 cld-responsive" data-src="https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fit,dpr_auto,f_auto,q_auto,w_800/v1520279262/hipjoint/hipjoint_band_final-4.jpg" alt="First slide">
         </div>
         
         <div class="carousel-item">
