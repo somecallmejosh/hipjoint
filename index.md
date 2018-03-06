@@ -13,10 +13,13 @@ layout: page
   </div>
   <h1 class="text-center h5">Gig Schedule</h1>
   <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-    The Pickle Stand <span class="text-secondary">Mar 24, 2018, Middletown, CT</span>
+      <a href="https://www.facebook.com/thepicklestand/">The Pickle Stand</a> <span class="text-secondary">Mar 24, 2018, Middletown, CT</span>
   </div>
     <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-    Matty's Next Door <span class="text-secondary">May 18, 2018, Middletown, CT</span>
+        <a href="http://www.mattysnextdoor.com/">Matty's Next Door</a> <span class="text-secondary">May 18, 2018, Middletown, CT</span>
+  </div>
+    <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
+        <a href="http://www.lavita9main.com/">La Vita</a> <span class="text-secondary">July 6, 2018, East Haddam, CT</span>
   </div>
   <!-- Three columns of text below the carousel -->
   <div class="row ">
