@@ -16,6 +16,9 @@ layout: page
       <a href="https://www.facebook.com/thepicklestand/">The Pickle Stand</a> <span class="text-secondary">Mar 24, 2018, Middletown, CT</span>
   </div>
     <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
+        <a href="http://daddy-jacks.business.site/">Daddy Jack's</a> <span class="text-secondary">May t, 2018, New London, CT</span>
+  </div>
+    <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
         <a href="http://www.mattysnextdoor.com/">Matty's Next Door</a> <span class="text-secondary">May 18, 2018, Middletown, CT</span>
   </div>
     <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
