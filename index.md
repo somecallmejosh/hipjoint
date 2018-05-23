@@ -17,7 +17,7 @@ layout: page
         <a href="http://www.mattysnextdoor.com/">Matty's Next Door</a> <span class="text-secondary">May 18, 2018, Middletown, CT</span>
   </div>
   <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-        <a href="https://www.facebook.com/Daddy-Jacks-295107657345193/">Daddy Jack's</a> <span class="text-secondary">June 2, 2018, New London, CT</span>
+        <a href="https://www.facebook.com/Daddy-Jacks-295107657345193/">Daddy Jack's</a> <span class="text-secondary">June 1, 2018, New London, CT</span>
   </div>
     <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
         <a href="http://www.lavita9main.com/">La Vita</a> <span class="text-secondary">July 6, 2018, East Haddam, CT</span>
