@@ -13,9 +13,11 @@ layout: page
   </div>
   <h1 class="text-center h5">Gig Schedule</h1>
   
-
     <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
         <a href="http://www.lavita9main.com/">La Vita</a> <span class="text-secondary">July 6, 2018, East Haddam, CT</span>
+  </div>
+  <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
+        <a href="http://labocamexican.com">La Boca Restaurant</a> <span class="text-secondary">August 3, 2018, Middletown, CT</span>
   </div>
     <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
         <a href="http://main.nationalmssociety.org/site/TR/Walk/CTNWalkEvents?pg=entry&fr_id=29751">Walk MS Simsbury</a> <span class="text-secondary">Sept 23, 2018, Simsbury, CT</span>
