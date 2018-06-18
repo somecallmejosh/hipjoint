@@ -22,8 +22,9 @@ layout: page
     <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
         <a href="http://main.nationalmssociety.org/site/TR/Walk/CTNWalkEvents?pg=entry&fr_id=29751">Walk MS Simsbury</a> <span class="text-secondary">Sept 23, 2018, Simsbury, CT</span>
   </div>
-   <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-        <a href="http://aquamastersct.com/">Aquamasters Office Party</a> <span class="text-secondary"October 13, 2018, Southington, CT</span>
+  
+  <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
+        <a href="http://aquamastersct.com/">Aqua Masters Office Party</a> <span class="text-secondary">October 13, 2018, Plantsville, CT</span>
   </div>
     
      
