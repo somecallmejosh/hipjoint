@@ -30,7 +30,7 @@ layout: page
   </div>
   
   <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-        PRIVATE Corporate Summer Party <span class="text-secondary">October 13, 2018</span>
+        PRIVATE - Corporate Party <span class="text-secondary">October 13, 2018</span>
   </div>
     
      
