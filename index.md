@@ -14,7 +14,14 @@ layout: page
   <h1 class="text-center h5">Gig Schedule</h1>
   
     <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-        <a href="http://www.lavita9main.com/">La Vita</a> <span class="text-secondary">July 6, 2018, East Haddam, CT</span>
+        <a href="https://www.facebook.com/thepicklestand/">The Pickle Stand</a> <span class="text-secondary">July 14, 2018, Middletown, CT</span>
+  </div>
+      <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
+        <a href="http://www.mattysnextdoor.com/">Matty's Next Door</a> <span class="text-secondary">July 20, 2018, Middletown, CT</span>
+  </div>
+    </div>
+      <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
+        <a href="http://www.mapletreecafe.com/">Maple Tree Cafe</a> <span class="text-secondary">July 21, 2018, Simsbury, CT</span>
   </div>
   <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
         <a href="http://labocamexican.com">La Boca Restaurant</a> <span class="text-secondary">August 3, 2018, Middletown, CT</span>
@@ -24,7 +31,7 @@ layout: page
   </div>
   
   <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-        <a href="http://aquamastersct.com/">Aqua Masters Office Party</a> <span class="text-secondary">October 13, 2018, Plantsville, CT</span>
+        PRIVATE Corporate Summer Party <span class="text-secondary">October 13, 2018</span>
   </div>
     
      
