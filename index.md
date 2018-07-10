@@ -19,7 +19,6 @@ layout: page
       <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
         <a href="http://www.mattysnextdoor.com/">Matty's Next Door</a> <span class="text-secondary">July 20, 2018, Middletown, CT</span>
   </div>
-    </div>
       <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
         <a href="http://www.mapletreecafe.com/">Maple Tree Cafe</a> <span class="text-secondary">July 21, 2018, Simsbury, CT</span>
   </div>
