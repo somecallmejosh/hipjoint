@@ -13,17 +13,11 @@ layout: page
   </div>
   <h1 class="text-center h5">Gig Schedule</h1>
   
-    <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-        <a href="https://www.facebook.com/thepicklestand/">The Pickle Stand</a> <span class="text-secondary">July 14, 2018, Middletown, CT</span>
-  </div>
-      <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-        <a href="http://www.mattysnextdoor.com/">Matty's Next Door</a> <span class="text-secondary">July 20, 2018, Middletown, CT</span>
-  </div>
-      <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
-        <a href="http://www.mapletreecafe.com/">Maple Tree Cafe</a> <span class="text-secondary">July 21, 2018, Simsbury, CT</span>
-  </div>
-  <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
+   <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
         <a href="http://labocamexican.com">La Boca Restaurant</a> <span class="text-secondary">August 3, 2018, Middletown, CT</span>
+  </div>
+      <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
+        <a href="http://crystalbees.com/">Crystal Bees</a> <span class="text-secondary">Sept 21, 2018, Southington, CT</span>
   </div>
     <div class="border border-top-0 border-left-0 border-right-0 border-color-secondary text-center p-3 mb-3 h4">
         <a href="http://main.nationalmssociety.org/site/TR/Walk/CTNWalkEvents?pg=entry&fr_id=29751">Walk MS Simsbury</a> <span class="text-secondary">Sept 23, 2018, Simsbury, CT</span>
